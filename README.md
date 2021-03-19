@@ -1,4 +1,4 @@
-# Winter21-Amath482/582
+# Winter21-Amath482
 ### Course content for amath482, amath 582 at University of Washington, Computational Methods For Data Analysis
 #### Instructor: Jason Bramburger, J. Nathan Kutz
 
